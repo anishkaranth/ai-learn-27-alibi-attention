@@ -1,0 +1,15 @@
+{
+ "project": "ai-learn-27-alibi-attention",
+ "seed": 42,
+ "config": {
+  "d_model": 32,
+  "n_heads": 4,
+  "L_train": 16,
+  "test_lengths": [16, 24, 32, 48],
+  "offset": 1,
+  "steps": 140,
+  "logit_scale": 8.0
+ },
+ "headline": {"slope_sanity_pass": true, "alibi_near_mass": 0.27387, "none_near_mass": 0.153778, "absolute_near_mass": 0.148311, "alibi_beats_none_locality": true, "alibi_acc_Ltrain": 1.0, "absolute_acc_Ltrain": 0.9313, "none_acc_Ltrain": 0.2375, "alibi_acc_Lmax": 0.9938, "absolute_acc_Lmax": 0.7312, "none_acc_Lmax": 0.2, "L_train": 16, "L_max": 48, "alibi_beats_absolute_at_Lmax": true},
+ "wall_time_s": 0.55
+}
