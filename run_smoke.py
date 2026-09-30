@@ -54,7 +54,7 @@ def main() -> None:
 
     slope = check_slope_sanity(CFG["n_heads"])
     slope8 = check_slope_sanity(8)
-    bias_demo = bias_matrix_demo(seq_len=12, n_heads=CFG["n_heads"])
+    bias_demo = bias_matrix_demo(seq_len=8, n_heads=CFG["n_heads"])
     loc = locality_attention_mass(
         d_model=CFG["d_model"],
         seq_len=CFG["locality_seq_len"],
@@ -84,6 +84,7 @@ def main() -> None:
         )
 
     by_pe = {r["pe"]: r for r in extrap}
+    # Acc at longest test length
     L_max = max(CFG["test_lengths"])
     def acc_at(pe: str, L: int) -> float:
         for row in by_pe[pe]["by_length"]:
@@ -111,6 +112,7 @@ def main() -> None:
         ),
     }
 
+    # Strip nested trained attn_row history enough; keep trained summary
     extrap_json = []
     for r in extrap:
         extrap_json.append(
