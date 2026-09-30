@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396pt" height="230.4pt" viewBox="0 0 396 230.4" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{fill:none;stroke:#b0b0b0;stroke-opacity:0.3;stroke-width:0.8;stroke-linecap:square}.s2{font-size:10px;font-family:sans-serif;text-anchor:middle}.s3{font-size:10px;font-family:sans-serif;text-anchor:end}.s4{fill:#e76f51;stroke:#e76f51}.s5{fill:#e9c46a;stroke:#e9c46a}.s6{fill:#2a9d8f;stroke:#2a9d8f}.s7{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s8{font-size:8px;font-family:sans-serif;text-anchor:start}.s9{fill:#ffffff}.s10{fill:none;stroke:#e76f51;stroke-width:1.5;stroke-linecap:square}.s11{fill:none;stroke:#e9c46a;stroke-width:1.5;stroke-linecap:square}.s12{fill:none;stroke:#2a9d8f;stroke-width:1.5;stroke-linecap:square}.s13{fill:none;stroke-dasharray:3.7,1.6;stroke-dashoffset:0;stroke:#555555}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 230.4 L 396 230.4 L 396 0 L 0 0 z" class="s9"/>
+<path d="M 47.6 188.3 L 385.2 188.3 L 385.2 26.2 L 47.6 26.2 z" class="s9"/>
+<path d="M 53.4 188.3 L 53.4 26.2" class="s1"/>
+<defs>
+<path id="m10396729c5" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m10396729c5" x="53.4" y="188.3" class="s0"/>
+<text x="53.4" y="202.9" class="s2">15</text>
+<path d="M 101.3 188.3 L 101.3 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="101.3" y="188.3" class="s0"/>
+<text x="101.3" y="202.9" class="s2">20</text>
+<path d="M 149.3 188.3 L 149.3 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="149.3" y="188.3" class="s0"/>
+<text x="149.3" y="202.9" class="s2">25</text>
+<path d="M 197.2 188.3 L 197.2 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="197.2" y="188.3" class="s0"/>
+<text x="197.2" y="202.9" class="s2">30</text>
+<path d="M 245.2 188.3 L 245.2 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="245.2" y="188.3" class="s0"/>
+<text x="245.2" y="202.9" class="s2">35</text>
+<path d="M 293.1 188.3 L 293.1 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="293.1" y="188.3" class="s0"/>
+<text x="293.1" y="202.9" class="s2">40</text>
+<path d="M 341.1 188.3 L 341.1 26.2" class="s1"/>
+<use xlink:href="#m10396729c5" x="341.1" y="188.3" class="s0"/>
+<text x="341.1" y="202.9" class="s2">45</text>
+<text x="216.4" y="216.9" class="s2">test sequence length</text>
+<path d="M 47.6 188.3 L 385.2 188.3" class="s1"/>
+<defs>
+<path id="m7469eaa10b" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#m7469eaa10b" x="47.6" y="188.3" class="s0"/>
+<text x="40.6" y="192.1" class="s3">0.0</text>
+<path d="M 47.6 157.4 L 385.2 157.4" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="157.4" class="s0"/>
+<text x="40.6" y="161.2" class="s3">0.2</text>
+<path d="M 47.6 126.5 L 385.2 126.5" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="126.5" class="s0"/>
+<text x="40.6" y="130.3" class="s3">0.4</text>
+<path d="M 47.6 95.6 L 385.2 95.6" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="95.6" class="s0"/>
+<text x="40.6" y="99.4" class="s3">0.6</text>
+<path d="M 47.6 64.8 L 385.2 64.8" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="64.8" class="s0"/>
+<text x="40.6" y="68.6" class="s3">0.8</text>
+<path d="M 47.6 33.9 L 385.2 33.9" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="33.9" class="s0"/>
+<text x="40.6" y="37.7" class="s3">1.0</text>
+<text x="18.3" y="107.2" transform="rotate(-90 18.3 107.2)" class="s2">top-1 accuracy</text>
+<path d="M 63 155.5 L 139.7 150.7 L 216.4 157.4 L 369.9 157.4" class="s10"/>
+<defs>
+<path id="m116a27ae90" d="M 0 3 C 0.8 3 1.6 2.7 2.1 2.1 C 2.7 1.6 3 0.8 3 0 C 3 -0.8 2.7 -1.6 2.1 -2.1 C 1.6 -2.7 0.8 -3 0 -3 C -0.8 -3 -1.6 -2.7 -2.1 -2.1 C -2.7 -1.6 -3 -0.8 -3 0 C -3 0.8 -2.7 1.6 -2.1 2.1 C -1.6 2.7 -0.8 3 0 3 z" style="stroke: #e76f51"/>
+</defs>
+<use xlink:href="#m116a27ae90" x="63" y="155.5" class="s4"/>
+<use xlink:href="#m116a27ae90" x="139.7" y="150.7" class="s4"/>
+<use xlink:href="#m116a27ae90" x="216.4" y="157.4" class="s4"/>
+<use xlink:href="#m116a27ae90" x="369.9" y="157.4" class="s4"/>
+<path d="M 63 46.4 L 139.7 55.1 L 216.4 59 L 369.9 75.4" class="s11"/>
+<defs>
+<path id="m5cd55a1616" d="M 0 3 C 0.8 3 1.6 2.7 2.1 2.1 C 2.7 1.6 3 0.8 3 0 C 3 -0.8 2.7 -1.6 2.1 -2.1 C 1.6 -2.7 0.8 -3 0 -3 C -0.8 -3 -1.6 -2.7 -2.1 -2.1 C -2.7 -1.6 -3 -0.8 -3 0 C -3 0.8 -2.7 1.6 -2.1 2.1 C -1.6 2.7 -0.8 3 0 3 z" style="stroke: #e9c46a"/>
+</defs>
+<use xlink:href="#m5cd55a1616" x="63" y="46.4" class="s5"/>
+<use xlink:href="#m5cd55a1616" x="139.7" y="55.1" class="s5"/>
+<use xlink:href="#m5cd55a1616" x="216.4" y="59" class="s5"/>
+<use xlink:href="#m5cd55a1616" x="369.9" y="75.4" class="s5"/>
+<path d="M 63 33.9 L 139.7 33.9 L 216.4 33.9 L 369.9 34.8" class="s12"/>
+<defs>
+<path id="m3a1ef0f32c" d="M 0 3 C 0.8 3 1.6 2.7 2.1 2.1 C 2.7 1.6 3 0.8 3 0 C 3 -0.8 2.7 -1.6 2.1 -2.1 C 1.6 -2.7 0.8 -3 0 -3 C -0.8 -3 -1.6 -2.7 -2.1 -2.1 C -2.7 -1.6 -3 -0.8 -3 0 C -3 0.8 -2.7 1.6 -2.1 2.1 C -1.6 2.7 -0.8 3 0 3 z" style="stroke: #2a9d8f"/>
+</defs>
+<use xlink:href="#m3a1ef0f32c" x="63" y="33.9" class="s6"/>
+<use xlink:href="#m3a1ef0f32c" x="139.7" y="33.9" class="s6"/>
+<use xlink:href="#m3a1ef0f32c" x="216.4" y="33.9" class="s6"/>
+<use xlink:href="#m3a1ef0f32c" x="369.9" y="34.8" class="s6"/>
+<path d="M 63 188.3 L 63 26.2" class="s13"/>
+<path d="M 47.6 188.3 L 47.6 26.2" class="s7"/>
+<path d="M 385.2 188.3 L 385.2 26.2" class="s7"/>
+<path d="M 47.6 188.3 L 385.2 188.3" class="s7"/>
+<path d="M 47.6 26.2 L 385.2 26.2" class="s7"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="216.4" y="20.2">Length extrapolation (train short, test long)</text>
+<path d="M 305.6 132.4 L 379.6 132.4 Q 381.2 132.4 381.2 130.8 L 381.2 83.6 Q 381.2 82 379.6 82 L 305.6 82 Q 304 82 304 83.6 L 304 130.8 Q 304 132.4 305.6 132.4 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 307.2 88.5 L 315.2 88.5 L 323.2 88.5" class="s10"/>
+<use xlink:href="#m116a27ae90" x="315.2" y="88.5" class="s4"/>
+<text x="329.6" y="91.3" class="s8">no PE</text>
+<path d="M 307.2 100.5 L 315.2 100.5 L 323.2 100.5" class="s11"/>
+<use xlink:href="#m5cd55a1616" x="315.2" y="100.5" class="s5"/>
+<text x="329.6" y="103.3" class="s8">absolute sin</text>
+<path d="M 307.2 112.5 L 315.2 112.5 L 323.2 112.5" class="s12"/>
+<use xlink:href="#m3a1ef0f32c" x="315.2" y="112.5" class="s6"/>
+<text x="329.6" y="115.3" class="s8">ALiBi</text>
+<path d="M 307.2 124.5 L 315.2 124.5 L 323.2 124.5" class="s13"/>
+<text x="329.6" y="127.3" class="s8">L_train</text>
+</svg>
