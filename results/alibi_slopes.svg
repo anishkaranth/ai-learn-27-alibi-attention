@@ -1,69 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396pt" height="230.4pt" viewBox="0 0 396 230.4" version="1.1">
-<style type="text/css">.s0{fill:none;stroke:#b0b0b0;stroke-opacity:0.3;stroke-width:0.8;stroke-linecap:square}.s1{stroke:#000000;stroke-width:0.6}.s2{stroke:#000000;stroke-width:0.8}.s3{font-size:10px;font-family:'DejaVuSans'}.s4{font-size:10px;font-family:sans-serif;text-anchor:middle}.s5{fill:#126782;stroke:#126782;stroke-linejoin:miter}.s6{fill:#2a9d8f;stroke:#2a9d8f}.s7{font-size:7px;font-family:'DejaVuSans'}.s8{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s9{fill:#ffffff}.s10{fill:none;stroke:#2a9d8f;stroke-width:1.5;stroke-linecap:square}.s11{fill:none;stroke:#126782;stroke-width:1.5;stroke-linecap:square}.s12{font-size:8px;font-family:sans-serif;text-anchor:start}</style>
-<defs>
-<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
-</defs>
-<path d="M 0 230.4 L 396 230.4 L 396 0 L 0 0 z" class="s9"/>
-<path d="M 55.9 188.3 L 385.2 188.3 L 385.2 26.2 L 55.9 26.2 z" class="s9"/>
-<path d="M 70.9 188.3 L 70.9 26.2" class="s0"/>
-<defs>
-<path id="m10396729c5" d="M 0 0 L 0 3.5" class="s2"/>
-</defs>
-<use xlink:href="#m10396729c5" x="70.9" y="188.3" class="s2"/>
-<text x="70.9" y="202.9" class="s4">1</text>
-<path d="M 113.6 188.3 L 113.6 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="113.6" y="188.3" class="s2"/>
-<text x="113.6" y="202.9" class="s4">2</text>
-<path d="M 156.4 188.3 L 156.4 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="156.4" y="188.3" class="s2"/>
-<text x="156.4" y="202.9" class="s4">3</text>
-<path d="M 199.2 188.3 L 199.2 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="199.2" y="188.3" class="s2"/>
-<text x="199.2" y="202.9" class="s4">4</text>
-<path d="M 241.9 188.3 L 241.9 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="241.9" y="188.3" class="s2"/>
-<text x="241.9" y="202.9" class="s4">5</text>
-<path d="M 284.7 188.3 L 284.7 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="284.7" y="188.3" class="s2"/>
-<text x="284.7" y="202.9" class="s4">6</text>
-<path d="M 327.5 188.3 L 327.5 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="327.5" y="188.3" class="s2"/>
-<text x="327.5" y="202.9" class="s4">7</text>
-<path d="M 370.2 188.3 L 370.2 26.2" class="s0"/>
-<use xlink:href="#m10396729c5" x="370.2" y="188.3" class="s2"/>
-<text x="370.2" y="202.9" class="s4">8</text>
-<text x="220.5" y="216.9" class="s4">head index (1..H)</text>
-<path d="M 55.9 152.4 L 385.2 152.4" class="s0"/>
-<defs>
-<path id="m7469eaa10b" d="M 0 0 L -3.5 0" class="s2"/>
-</defs>
-<use xlink:href="#m7469eaa10b" x="55.9" y="152.4" class="s2"/>
-<path d="M 55.9 82.4 L 385.2 82.4" class="s0"/>
-<use xlink:href="#m7469eaa10b" x="55.9" y="82.4" class="s2"/>
-<path d="M 70.9 54.6 L 113.6 96.7 L 156.4 138.8 L 199.2 180.9" class="s10"/>
-<defs>
-<path id="m3a1ef0f32c" d="M 0 3 C 0.8 3 1.6 2.7 2.1 2.1 C 2.7 1.6 3 0.8 3 0 C 3 -0.8 2.7 -1.6 2.1 -2.1 C 1.6 -2.7 0.8 -3 0 -3 C -0.8 -3 -1.6 -2.7 -2.1 -2.1 C -2.7 -1.6 -3 -0.8 -3 0 C -3 0.8 -2.7 1.6 -2.1 2.1 C -1.6 2.7 -0.8 3 0 3 z" style="stroke: #2a9d8f"/>
-</defs>
-<use xlink:href="#m3a1ef0f32c" x="70.9" y="54.6" class="s6"/>
-<use xlink:href="#m3a1ef0f32c" x="113.6" y="96.7" class="s6"/>
-<use xlink:href="#m3a1ef0f32c" x="156.4" y="138.8" class="s6"/>
-<use xlink:href="#m3a1ef0f32c" x="199.2" y="180.9" class="s6"/>
-<path d="M 70.9 33.5 L 113.6 54.6 L 156.4 75.6 L 199.2 96.7 L 241.9 117.7 L 284.7 138.8 L 327.5 159.9 L 370.2 180.9" class="s11"/>
-<defs>
-<path id="m9f38586324" d="M -3 3 L 3 3 L 3 -3 L -3 -3 z" style="stroke: #126782; stroke-linejoin: miter"/>
-</defs>
-<use xlink:href="#m9f38586324" x="70.9" y="33.5" class="s5"/>
-<use xlink:href="#m9f38586324" x="113.6" y="54.6" class="s5"/>
-<use xlink:href="#m9f38586324" x="156.4" y="75.6" class="s5"/>
-<use xlink:href="#m9f38586324" x="199.2" y="96.7" class="s5"/>
-<use xlink:href="#m9f38586324" x="241.9" y="117.7" class="s5"/>
-<use xlink:href="#m9f38586324" x="284.7" y="138.8" class="s5"/>
-<use xlink:href="#m9f38586324" x="327.5" y="159.9" class="s5"/>
-<use xlink:href="#m9f38586324" x="370.2" y="180.9" class="s5"/>
-<path d="M 55.9 188.3 L 55.9 26.2" class="s8"/>
-<path d="M 385.2 188.3 L 385.2 26.2" class="s8"/>
-<path d="M 55.9 188.3 L 385.2 188.3" class="s8"/>
-<path d="M 55.9 26.2 L 385.2 26.2" class="s8"/>
-<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="220.5" y="20.2">ALiBi geometric head slopes</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300">
+<rect width="100%" height="100%" fill="white"/>
+<text x="260" y="22" text-anchor="middle" font-family="sans-serif" font-size="14">ALiBi geometric head slopes</text>
+<line x1="60" y1="250" x2="480" y2="250" stroke="#333"/>
+<line x1="60" y1="40" x2="60" y2="250" stroke="#333"/>
+<text x="270" y="285" text-anchor="middle" font-family="sans-serif" font-size="11">head index (1..H)</text>
+<text x="18" y="150" transform="rotate(-90 18 150)" font-family="sans-serif" font-size="11">slope m_h (log)</text>
+<circle cx="110.0" cy="83.0" r="4" fill="#2a9d8f"/>
+<circle cx="210.0" cy="135.4" r="4" fill="#2a9d8f"/>
+<circle cx="310.0" cy="187.7" r="4" fill="#2a9d8f"/>
+<circle cx="410.0" cy="240.0" r="4" fill="#2a9d8f"/>
+<polyline fill="none" stroke="#2a9d8f" stroke-width="1.5" points="110.0,83.0 210.0,135.4 310.0,187.7 410.0,240.0"/>
+<text x="380" y="70" font-family="sans-serif" font-size="11" fill="#2a9d8f">H=4</text>
+<rect x="81.5" y="53.4" width="7" height="7" fill="#126782"/>
+<rect x="131.5" y="79.5" width="7" height="7" fill="#126782"/>
+<rect x="181.5" y="105.7" width="7" height="7" fill="#126782"/>
+<rect x="231.5" y="131.9" width="7" height="7" fill="#126782"/>
+<rect x="281.5" y="158.0" width="7" height="7" fill="#126782"/>
+<rect x="331.5" y="184.2" width="7" height="7" fill="#126782"/>
+<rect x="381.5" y="210.4" width="7" height="7" fill="#126782"/>
+<rect x="431.5" y="236.5" width="7" height="7" fill="#126782"/>
+<polyline fill="none" stroke="#126782" stroke-width="1.5" points="85.0,56.9 135.0,83.0 185.0,109.2 235.0,135.4 285.0,161.5 335.0,187.7 385.0,213.9 435.0,240.0"/>
+<text x="380" y="90" font-family="sans-serif" font-size="11" fill="#126782">H=8</text>
 </svg>
