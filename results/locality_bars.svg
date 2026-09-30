@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396pt" height="230.4pt" viewBox="0 0 396 230.4" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{fill:none;stroke:#b0b0b0;stroke-opacity:0.3;stroke-width:0.8;stroke-linecap:square}.s2{font-size:10px;font-family:sans-serif;text-anchor:end}.s3{fill:#2a9d8f}.s4{fill:#e76f51}.s5{font-size:10px;font-family:sans-serif;text-anchor:middle}.s6{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s7{fill:#ffffff}.s8{font-size:8px;font-family:sans-serif;text-anchor:start}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 230.4 L 396 230.4 L 396 0 L 0 0 z" class="s7"/>
+<path d="M 47.6 202.3 L 385.2 202.3 L 385.2 26.2 L 47.6 26.2 z" class="s7"/>
+<path d="M 63 202.3 L 102.8 202.3 L 102.8 176.5 L 63 176.5 z" class="s3"/>
+<path d="M 176.6 202.3 L 216.4 202.3 L 216.4 177.4 L 176.6 177.4 z" class="s3"/>
+<path d="M 290.3 202.3 L 330.1 202.3 L 330.1 156.3 L 290.3 156.3 z" class="s3"/>
+<path d="M 102.8 202.3 L 142.5 202.3 L 142.5 37.9 L 102.8 37.9 z" class="s4"/>
+<path d="M 216.4 202.3 L 256.2 202.3 L 256.2 40.6 L 216.4 40.6 z" class="s4"/>
+<path d="M 330.1 202.3 L 369.9 202.3 L 369.9 42.4 L 330.1 42.4 z" class="s4"/>
+<defs>
+<path id="m10396729c5" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#m10396729c5" x="102.8" y="202.3" class="s0"/>
+<text x="102.8" y="216.9" class="s5">no PE</text>
+<use xlink:href="#m10396729c5" x="216.4" y="202.3" class="s0"/>
+<text x="216.4" y="216.9" class="s5">absolute sin</text>
+<use xlink:href="#m10396729c5" x="330.1" y="202.3" class="s0"/>
+<text x="330.1" y="216.9" class="s5">ALiBi</text>
+<path d="M 47.6 202.3 L 385.2 202.3" class="s1"/>
+<defs>
+<path id="m7469eaa10b" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#m7469eaa10b" x="47.6" y="202.3" class="s0"/>
+<text x="40.6" y="206.1" class="s2">0.0</text>
+<path d="M 47.6 168.7 L 385.2 168.7" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="168.7" class="s0"/>
+<text x="40.6" y="172.5" class="s2">0.2</text>
+<path d="M 47.6 135.2 L 385.2 135.2" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="135.2" class="s0"/>
+<text x="40.6" y="139" class="s2">0.4</text>
+<path d="M 47.6 101.6 L 385.2 101.6" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="101.6" class="s0"/>
+<text x="40.6" y="105.4" class="s2">0.6</text>
+<path d="M 47.6 68.1 L 385.2 68.1" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="68.1" class="s0"/>
+<text x="40.6" y="71.9" class="s2">0.8</text>
+<path d="M 47.6 34.5 L 385.2 34.5" class="s1"/>
+<use xlink:href="#m7469eaa10b" x="47.6" y="34.5" class="s0"/>
+<text x="40.6" y="38.3" class="s2">1.0</text>
+<text x="18.3" y="114.2" transform="rotate(-90 18.3 114.2)" class="s5">score</text>
+<path d="M 47.6 202.3 L 47.6 26.2" class="s6"/>
+<path d="M 385.2 202.3 L 385.2 26.2" class="s6"/>
+<path d="M 47.6 202.3 L 385.2 202.3" class="s6"/>
+<path d="M 47.6 26.2 L 385.2 26.2" class="s6"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="216.4" y="20.2">Attention locality (higher near mass = prefers nearby keys)</text>
+<path d="M 288.4 56.6 L 379.6 56.6 Q 381.2 56.6 381.2 55 L 381.2 31.8 Q 381.2 30.2 379.6 30.2 L 288.4 30.2 Q 286.8 30.2 286.8 31.8 L 286.8 55 Q 286.8 56.6 288.4 56.6 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 290 39.4 L 306 39.4 L 306 33.8 L 290 33.8 z" class="s3"/>
+<text x="312.4" y="39.4" class="s8">near mass (r=2)</text>
+<path d="M 290 51.4 L 306 51.4 L 306 45.8 L 290 45.8 z" class="s4"/>
+<text x="312.4" y="51.4" class="s8">norm. entropy</text>
+</svg>
